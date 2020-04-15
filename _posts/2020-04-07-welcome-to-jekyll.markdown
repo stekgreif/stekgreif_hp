@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Stekgreif!"
 date:   2020-04-07 11:48:05 +0200
 categories: jekyll update
 ---
