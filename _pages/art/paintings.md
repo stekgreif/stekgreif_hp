@@ -10,12 +10,15 @@ permalink: /pages/art/paintings
 - recycling
 - build process
 
+---
 ## 2020
 
+---
 ## 2019
 # 040 - bird's party by night
 # 039 - bird's party by day
 
+---
 ## 2018
 
 # 019 - eulenchen 3
@@ -26,6 +29,7 @@ permalink: /pages/art/paintings
 # 014 - balkans
 ![014 - balkans](14.jpg)
 
+---
 ## 2017
 # 002 - dusk
 ![002 - dusk](02.jpg)
