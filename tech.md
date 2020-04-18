@@ -1,6 +1,7 @@
 ---
 layout: page
 title: tech stuff
+permalink: /tech/
 ---
 
 
