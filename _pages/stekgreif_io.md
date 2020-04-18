@@ -6,4 +6,8 @@ permalink: /pages/stekgreif_io/
 
 # a modular framework
 
-![painting no 17](../images/workshop_demo.png)
+![demo: workshop](../images/workshop_demo.png)
+![demo: wagen](../images/wagen_01.jpg)
+
+
+

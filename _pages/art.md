@@ -12,18 +12,17 @@ permalink: /pages/art/
 
 ## painting 001 - event
 
-## painting 002 - future
-das läuft:
-![painting no 17](../images/17.jpg)
 
-das auch?:
-<p>
-    <img src="../images/17.jpg" width="220" height="240" />
-</p>
+## painting 002 - future
+
 
 ## painting 017..019 - owl
+![painting no 17](../images/17.jpg)
 
+<img src="url" alt="alt text" width="whatever" height="whatever">
 
-## painting 039 - bird party by day
+<img src="../images/17.jpg" width="50%">
 
-## painting 039 - bird party by night
+## painting 039 - bird's party by day
+
+## painting 039 - bird's party by night
