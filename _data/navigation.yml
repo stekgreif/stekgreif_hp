@@ -2,11 +2,11 @@ main:
     - title: "About"
       url: /about/
 
-    - title: "MD Help"
-      url: /pages/markdown_help/
-
     - title: "Art"
       url: /art/
 
-    - title: "Donate"
-      url: /pages/donate/
+    - title: "Electronics"
+      url: /pages/electronics/
+
+    - title: "Stekgreif.io"
+      url: /pages/stekgreif_io
