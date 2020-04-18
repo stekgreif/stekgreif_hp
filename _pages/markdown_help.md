@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Git Commands"
-date:   2020-04-18 10:48:05 +0200
-categories: help
+layout: page
+title:  "Art"
+permalink: /pages/markdown_help/
 ---
 
 # markdown commands
