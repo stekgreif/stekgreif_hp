@@ -1,12 +1,12 @@
 main:
-    - title: "About"
-      url: /about/
+    - title: "about"
+      url: /pages/about/
 
-    - title: "Art"
-      url: /art/
+    - title: "art"
+      url: /pages/art/
 
-    - title: "Electronics"
+    - title: "electronics"
       url: /pages/electronics/
 
-    - title: "Stekgreif.io"
+    - title: "stekgreif.io"
       url: /pages/stekgreif_io
