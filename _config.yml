@@ -31,7 +31,7 @@ github_username:  stekgreif
 youtube_username: stekgreif
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
