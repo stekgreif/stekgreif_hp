@@ -10,16 +10,16 @@ permalink: /pages/art/
 - recycling
 - build process
 
-## painting 001 - event
+## painting 001 - dawn (2017)
 
 
-## painting 002 - future
+## painting 002 - dusk (2017)
 
 
 ## painting 017..019 - owl
 ![painting no 17](../images/17.jpg)
 
-<img src="url" alt="alt text" width="whatever" height="whatever">
+<img src="../images/17.jpg" alt="alt text" width="50%" height="50%">
 
 <img src="../images/17.jpg" width="50%">
 
