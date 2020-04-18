@@ -2,8 +2,8 @@ main:
     - title: "about"
       url: /pages/about/
 
-    - title: "art"
-      url: /pages/art/
+    - title: "paintings"
+      url: /pages/art/paintings
 
     - title: "electronics"
       url: /pages/electronics/
@@ -12,13 +12,4 @@ main:
       url: /pages/stekgreif_io
 
 
-about:
-  - title: stekgreif_io
-    children:
-      - title: "About"
-        url: /about/
-      - title: "Mission"
-        url: /about/mission/
-      - title: "Contact"
-        url: /about/contact/
    
