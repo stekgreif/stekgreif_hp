@@ -16,10 +16,12 @@ permalink: /pages/art/
 ![painting no 2](/images/02.jpg)
 ![painting no 17](images/17.jpg)
 ![painting no 17](/images/17.jpg)
+das läuft:
 ![painting no 17](../images/17.jpg)
 
+das auch?:
 <p>
-    <img src="images/17.jpg" width="220" height="240" />
+    <img src="../images/17.jpg" width="220" height="240" />
 </p>
 
 ## painting 017..019 - owl
