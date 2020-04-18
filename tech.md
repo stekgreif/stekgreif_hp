@@ -9,3 +9,9 @@ permalink: /tech/
 - bar
 - board
 - bolt
+
+## bar
+
+## board
+
+## bolt
