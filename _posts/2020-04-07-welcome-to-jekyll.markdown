@@ -41,28 +41,54 @@ git commit -m "text"
 git push origin master
 
 
-## markdown commands
+# markdown commands
+
+## header:
+```
 # H1
 ## H2
+###### H6
+```
+# H1
+## H2
+###### H6
 
+## format:
+```
+*italic*
+_italic_
+**bold**
+__bold__
+```
 *italic*
 _italic_
 **bold**
 __bold__
 
-## unordered list
-* item
-- item
-+ item
+## unordered list:
+```
+* item a
+- item b
++ item c
+```
+* item a
+- item b
++ item c
 
-## ordered list
-1. item
-1. item
-1. item
-
+## ordered list:
+```
+1. item 1
+3. item 2
+1. item 3
+```
+1. item 1
+1. item 2
+1. item 3
 
 ## links
 [link titel](www.url.com)
 
 ## image
-![name](/path/to/image.png)
+inline: ![alt text](/path/to/image.png)
+reference: ![alt text][img_ref]
+[img_ref]: (/path/to/image.png)
