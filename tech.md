@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tech stuff
+title: Framework
 permalink: /tech/
 ---
 
