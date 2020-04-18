@@ -14,6 +14,13 @@ permalink: /pages/art/
 
 ## painting 002 - future
 ![painting no 2](/images/02.jpg)
+![painting no 17](images/17.jpg)
+![painting no 17](/images/17.jpg)
+![painting no 17](../images/17.jpg)
+
+<p>
+    <img src="images/17.jpg" width="220" height="240" />
+</p>
 
 ## painting 017..019 - owl
 
