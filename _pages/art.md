@@ -13,9 +13,6 @@ permalink: /pages/art/
 ## painting 001 - event
 
 ## painting 002 - future
-![painting no 2](/images/02.jpg)
-![painting no 17](images/17.jpg)
-![painting no 17](/images/17.jpg)
 das läuft:
 ![painting no 17](../images/17.jpg)
 
