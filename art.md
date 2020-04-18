@@ -1,10 +1,11 @@
 ---
 layout: page
-title:  "Art: Paintings Page"
+title:  "Art"
 permalink: /art/
 ---
 
 # Painting no. 2
 
 ![painting no 2](/images/02.jpg)
-![DC nanogrid overview](/images/dc_nanogrid_overview.png)
+
+![painting no 17](/images/17.jpg)
