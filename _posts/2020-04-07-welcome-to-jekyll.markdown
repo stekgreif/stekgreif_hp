@@ -39,3 +39,30 @@ git remote add origin https://github.com/page.git
 git add .
 git commit -m "text"
 git push origin master
+
+
+## markdown commands
+# H1
+## H2
+
+*italic*
+_italic_
+**bold**
+__bold__
+
+## unordered list
+* item
+- item
++ item
+
+## ordered list
+1. item
+1. item
+1. item
+
+
+## links
+[link titel](www.url.com)
+
+## image
+![name](/path/to/image.png)
