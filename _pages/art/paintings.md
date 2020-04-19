@@ -20,13 +20,28 @@ permalink: /pages/art/paintings
 ---
 ## 2018
 
-# 019 - eulenchen 3
+---
 # 018 - eulenchen 2
+- year: 2018
+- canvas size: ~ 20cm x 20cm
+- current location: edmonton/canada
 ![017 - eulenchen 2](/images/18.jpg)
+
+---
 # 017 - eulenchen 1
+- year: 
+- canvas size: 
+- current location: 
 ![017 - eulenchen 1](17.jpg)
+
+---
 # 014 - balkans
+year: 
+canvas size: 
+current location: 
 ![014 - balkans](14.jpg)
+
+---
 # 010 - mickey
 # 009 - picknick
 # 008 - lili
