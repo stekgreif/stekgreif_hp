@@ -9,7 +9,7 @@ permalink: /pages/electronics/
 ![mosaik logo](MosaikLogo.png)
 
 # music electronics
-- stekgreif (2004)
+- stekgreif [2004]
 - normaluhr (2008)
 - an.schlag (2010)
 - mosik (2010..2016)
