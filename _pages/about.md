@@ -16,12 +16,6 @@ permalink: /pages/about/
 - visionary
 - activist
 
-# motivation
-- circular economy
-
-# contact
-info@stekgreif.com
-
 # work (student to professional)
 - aixtron (intern/student)
 - siemens (student)
@@ -32,6 +26,14 @@ info@stekgreif.com
 - ptscientist (brief)
 - senec (now)
 
+# tools and goals
+- first principle
+- grid based framework
+- recycling/upcycling
+- modular framework for cirular economy
+
+# contact
+- info@stekgreif.com
 
 # links
 - [Funda Kit](http://www.fundakit.org)
