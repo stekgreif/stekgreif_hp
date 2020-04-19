@@ -5,7 +5,6 @@ permalink: /pages/about/
 ---
 
 # me
-- multi-diciplinist
 - maker
 - engineer
   - electronics

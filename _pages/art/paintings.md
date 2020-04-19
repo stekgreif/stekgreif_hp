@@ -28,12 +28,12 @@ year: 2018 | canvas size: ~ 20cm x 20cm | current location: edmonton/canada
 ---
 # 017 - eulenchen 1
 ![017 - eulenchen 1](17.jpg)
-year: | canvas size: | current location: 
+| year: | canvas size: | current location: |
 
 ---
 # 014 - balkans
 ![014 - balkans](14.jpg)
-year: | canvas size: | current location: 
+- year: | canvas size: | current location: -
 
 ---
 # 010 - mickey
