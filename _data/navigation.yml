@@ -2,7 +2,7 @@ main:
     - title: "about"
       url: /pages/about/
 
-    - title: "paintings"
+    - title: "art"
       url: /pages/art/paintings
 
     - title: "electronics"

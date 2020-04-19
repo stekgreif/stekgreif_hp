@@ -22,7 +22,7 @@ permalink: /pages/art/paintings
 
 ---
 # 018 - eulenchen 2
- ![017 - eulenchen 2](/images/18.jpg)
+ ![017 - eulenchen 2](18.jpg)
 year: 2018 | canvas size: ~ 20cm x 20cm | current location: edmonton/canada
 
 ---

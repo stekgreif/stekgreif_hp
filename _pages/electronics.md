@@ -19,3 +19,9 @@ permalink: /pages/electronics/
 <iframe
   width="420" height="345" src="https://www.youtube.com/watch?v=mBTPQAPL1E8">
 </iframe>
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/mBTPQAPL1E8/0.jpg)](http://www.youtube.com/watch?v=mBTPQAPL1E8)
+
+# mosaik
+![mosaik flyer](MosaikFlyer.png)
+![mosaik logo](MosaikLogo.png)
