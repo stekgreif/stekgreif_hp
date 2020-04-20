@@ -6,9 +6,13 @@ permalink: /pages/stekgreifio/
 
 # a modular framework
 
-bla
+# grids
+- gr2010
+- gr3015
+- gr4020
 
-![demo: workshop](../images/workshop_demo.jpg)
+
+![demo: workshop](workshop_demo.jpg)
 
 # base parts
 - bars
@@ -16,7 +20,7 @@ bla
 - bolts
 
 # cad
-![demo: wagen](../images/wagen_01.jpg)
+![demo: wagen](wagen_01.jpg)
 
 
 
