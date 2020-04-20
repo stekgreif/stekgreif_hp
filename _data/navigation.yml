@@ -8,8 +8,19 @@ main:
     - title: "electronics"
       url: /pages/electronics/
 
-    - title: "stekgreif.io"
-      url: /pages/stekgreif_io
+    - title: "stekgreifio"
+      url: /pages/stekgreifio
 
 
-   
+electronics:
+  - title: Hello Electronics
+  children:
+    - title: "stekgreif"
+      url: /pages/electronics/stekgreifio/stekgreifio
+    - title: "mosaik"
+      url: /pages/electronics/mosaik/mosaik
+    - title: "anschlag"
+      url: /pages/electronics/anschlag/anschlag
+    - title: "normaluhr"
+      url: /pages/electronics/normaluhr/normaluhr
+  - title: noch ein titel?

@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "stekgreif_io"
-permalink: /pages/stekgreif_io/
+title:  "stekgreifio"
+permalink: /pages/stekgreifio/
 ---
 
 # a modular framework
