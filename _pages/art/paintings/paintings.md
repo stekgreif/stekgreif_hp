@@ -79,7 +79,7 @@ permalink: /pages/art/paintings
 ## 014 - balkans
 ![014](14.jpg)
 ## 013 - tristesse 2
-![013](13.jpg)
+![013](013.jpg)
 ## 012 - volk
 ## 011 - tristesse
 ## 010 - mickey
