@@ -1,35 +1,35 @@
 main:
-    - title: "aboutX"
-      url: /pages/about/
+    - title: "aboutx"
+      url: /about
 
     - title: "art"
-      url: /pages/art/paintings
+      url: /art/paintings
 
     - title: "electronics"
-      url: /pages/electronics/
+      url: /electronics
 
     - title: "stekgreifio"
-      url: /pages/stekgreifio
+      url: /stekgreifio
 
 
 electronics:
-  - title: Hello Electronics
-  children:
-    - title: "stekgreif"
-      url: /pages/electronics/stekgreifio/stekgreifio
-    - title: "mosaik"
-      url: /pages/electronics/mosaik/mosaik
-    - title: "anschlag"
-      url: /pages/electronics/anschlag/anschlag
-    - title: "normaluhr"
-      url: /pages/electronics/normaluhr/normaluhr
-  - title: noch ein titel?
+  - title: electronics
+    children:
+      - title: "stekgreif"
+        url: /electronics/stekgreifio/stekgreifio
+      - title: "mosaik"
+        url: /electronics/mosaik/mosaik
+      - title: "anschlag"
+        url: /electronics/anschlag/anschlag
+      - title: "normaluhr"
+        url: /electronics/normaluhr/normaluhr
+      - title: noch ein titel?
 
 
 art:
   - title: "art"
-  children:
-    - title "paintings"
-      url: /pages/art/paintings
-    - title "design"
-      url: /pages/art/design
+    children:
+      - title: "paintings"
+        url: /art/paintings
+      - title: "design"
+        url: /art/design
