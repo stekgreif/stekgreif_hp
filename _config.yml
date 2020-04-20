@@ -29,9 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  stekgreif
 
 # Build settings
-#theme: minimal-mistakes-jekyll
-#theme: minima
-theme: jekyll-theme-minimal
+#theme: minimal-mistakes-jekyll # not supported by git pages
+#theme: jekyll-theme-minimal    # supported, but not working 
+theme: minima
+
 plugins:
   - jekyll-feed
 
