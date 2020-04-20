@@ -13,7 +13,7 @@ main:
 
 
 electronics:
-  - title: "Hello Electronics"
+  - title: Hello Electronics
   children:
     - title: "stekgreif"
       url: /pages/electronics/stekgreifio/stekgreifio
