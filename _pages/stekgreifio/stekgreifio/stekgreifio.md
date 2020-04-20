@@ -6,6 +6,8 @@ permalink: /pages/stekgreifio/
 
 # a modular framework
 
+bla
+
 ![demo: workshop](../images/workshop_demo.jpg)
 
 # base parts
