@@ -6,10 +6,14 @@ permalink: /pages/stekgreifio/
 
 # a modular workshop/studio
 
-![demo: workshop](workshop_demo.jpg)
 
-# cad
-![demo: wagen](wagen_01.jpg)
+![](img/workshop_demo.jpg)
+![](img/w_iso.png) 
+![](img/wagen_01.jpg) 
+![](img/wagen_02.jpg) 
+![](img/wagen_06.jpg) 
+![](img/work_01.jpg) 
+
 
 
 
